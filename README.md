@@ -1,2 +1,3 @@
-# FR_Debug
-Debug tools for LSPDFR plugin developing.
+# 注意書き
+LSPDFR向けプラグインを制作する際に頻繁に使用するツールの寄せ集めです。<br/>
+リリースする代物でもないので、使用したい方は各自ビルドして下さい。
